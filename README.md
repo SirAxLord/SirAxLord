@@ -8,6 +8,12 @@
   <em>Welcome to my GitHub profile! I'm passionate about coding, open source, and continuous learning.</em>
 </p>
 
+<p align="center">
+  <a href="https://siraxlord.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Erik_Axel-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
